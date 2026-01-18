@@ -19,12 +19,21 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< HEAD
               "Title": "Circle.cpp",
               "DocumentMoniker": "E:\\cstudy\\cpp\\day04\\Circle.cpp",
               "RelativeDocumentMoniker": "Circle.cpp",
               "ToolTip": "E:\\cstudy\\cpp\\day04\\Circle.cpp*",
               "RelativeToolTip": "Circle.cpp*",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAASAAAAAAAAAA==",
+=======
+              "Title": "Memo.cpp",
+              "DocumentMoniker": "E:\\cstudy\\cpp\\day04\\Memo.cpp",
+              "RelativeDocumentMoniker": "Memo.cpp",
+              "ToolTip": "E:\\cstudy\\cpp\\day04\\Memo.cpp",
+              "RelativeToolTip": "Memo.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAARAAAAAAAAAA==",
+>>>>>>> parent of 6da7a3f (commit)
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-01-18T18:24:28.958Z",
               "EditorCaption": ""
