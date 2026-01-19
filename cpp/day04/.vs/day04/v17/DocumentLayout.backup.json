@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "E:\\cstudy\\cpp\\day04\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7978302F-B878-4F12-B23E-5458FBEA9701}|day04.vcxproj|E:\\cstudy\\cpp\\day04\\Memo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7978302F-B878-4F12-B23E-5458FBEA9701}|day04.vcxproj|solutionrelative:Memo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7978302F-B878-4F12-B23E-5458FBEA9701}|day04.vcxproj|E:\\cstudy\\cpp\\day04\\Circle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7978302F-B878-4F12-B23E-5458FBEA9701}|day04.vcxproj|solutionrelative:Circle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< HEAD
+              "Title": "Circle.cpp",
+              "DocumentMoniker": "E:\\cstudy\\cpp\\day04\\Circle.cpp",
+              "RelativeDocumentMoniker": "Circle.cpp",
+              "ToolTip": "E:\\cstudy\\cpp\\day04\\Circle.cpp*",
+              "RelativeToolTip": "Circle.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAASAAAAAAAAAA==",
+=======
               "Title": "Memo.cpp",
               "DocumentMoniker": "E:\\cstudy\\cpp\\day04\\Memo.cpp",
               "RelativeDocumentMoniker": "Memo.cpp",
               "ToolTip": "E:\\cstudy\\cpp\\day04\\Memo.cpp",
               "RelativeToolTip": "Memo.cpp",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAADwAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAARAAAAAAAAAA==",
+>>>>>>> parent of 6da7a3f (commit)
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-31T11:45:19.479Z",
+              "WhenOpened": "2026-01-18T18:24:28.958Z",
               "EditorCaption": ""
             }
           ]
